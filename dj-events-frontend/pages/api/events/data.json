@@ -10,7 +10,7 @@
         "date": "2023-07-15",
         "time": "20:00",
         "description": "Join us for a night of non-stop music and dance!",
-        "image": "../../../public/images/sample/djparty.jpeg"
+        "image": "/images/sample/djparty.jpeg"
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "date": "2023-08-20",
         "time": "18:00",
         "description": "Experience the ultimate summer party with electrifying beats!",
-        "image": "../../../public/images/sample/djparty2.jpeg"
+        "image": "/images/sample/djparty2.jpeg"
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "date": "2023-09-10",
         "time": "22:00",
         "description": "Immerse yourself in an enchanting rave surrounded by nature's beauty!",
-        "image": "../../../public/images/sample/djparty3.jpeg"
+        "image": "/images/sample/djparty3.jpeg"
       },
       {
         "id": 4,
@@ -46,7 +46,7 @@
         "date": "2023-10-05",
         "time": "21:30",
         "description": "Get ready for an explosive night of pulsating EDM beats!",
-        "image": "../../../public/images/sample/djparty4.jpeg"
+        "image": "/images/sample/djparty4.jpeg"
       },
       {
         "id": 5,
@@ -58,7 +58,7 @@
         "date": "2023-11-15",
         "time": "17:30",
         "description": "Watch the sunset while grooving to laid-back tunes at this rooftop party!",
-        "image": "../../../public/images/sample/djparty5.jpeg"
+        "image": "/images/sample/djparty5.jpeg"
       }
     ]
   }
