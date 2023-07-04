@@ -1,0 +1,65 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "name": "DJ Night Extravaganza",
+        "slug": "dj-night-extravaganza",
+        "venue": "Club Vibes",
+        "address": "123 Main Street, Cityville",
+        "performers": ["DJ Awesome", "DJ MegaMix"],
+        "date": "2023-07-15",
+        "time": "20:00",
+        "description": "Join us for a night of non-stop music and dance!",
+        "image": "../../../public/images/sample/djparty.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Summer Beats Festival",
+        "slug": "summer-beats-festival",
+        "venue": "Beach Stage",
+        "address": "456 Beach Avenue, Seaside Town",
+        "performers": ["DJ GrooveMaster", "DJ BassDrop"],
+        "date": "2023-08-20",
+        "time": "18:00",
+        "description": "Experience the ultimate summer party with electrifying beats!",
+        "image": "../../../public/images/sample/djparty2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Rave in the Forest",
+        "slug": "rave-in-the-forest",
+        "venue": "Enchanted Grove",
+        "address": "789 Woodland Drive, Natureville",
+        "performers": ["DJ NatureLover", "DJ TranceMaster"],
+        "date": "2023-09-10",
+        "time": "22:00",
+        "description": "Immerse yourself in an enchanting rave surrounded by nature's beauty!",
+        "image": "../../../public/images/sample/djparty3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "EDM Explosion",
+        "slug": "edm-explosion",
+        "venue": "Pulsar Arena",
+        "address": "321 Electron Avenue, Technocity",
+        "performers": ["DJ ElectroFunk", "DJ SynthWizard"],
+        "date": "2023-10-05",
+        "time": "21:30",
+        "description": "Get ready for an explosive night of pulsating EDM beats!",
+        "image": "../../../public/images/sample/djparty4.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Sunset Sessions",
+        "slug": "sunset-sessions",
+        "venue": "Sky Terrace",
+        "address": "987 Rooftop Road, Skyline City",
+        "performers": ["DJ SunsetSpinner", "DJ ChillVibes"],
+        "date": "2023-11-15",
+        "time": "17:30",
+        "description": "Watch the sunset while grooving to laid-back tunes at this rooftop party!",
+        "image": "../../../public/images/sample/djparty5.jpeg"
+      }
+    ]
+  }
+  

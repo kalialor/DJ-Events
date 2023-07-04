@@ -1,9 +1,12 @@
 import Head from 'next/head';
+import { useRouter } from 'next/router';
 import Header from './Header';
+import Footer from './Footer';
+import Showcase from './Showcase';
 import styles from "../styles/Layout.module.css"
 
 export default function Layout({title, keywords, description, children}) {
-  
+  const router = useRouter()
   
     return (
     <div>
@@ -14,9 +17,13 @@ export default function Layout({title, keywords, description, children}) {
       </Head>
 
       <Header />
+
+      {router.pathname === '/' && <Showcase />}
+
       <div className={styles.container}>
           {children}
       </div>
+      <Footer />
         
     </div>
   )
@@ -28,3 +35,11 @@ Layout.defaultProps = {
     description: 'Find the latest DJ and other musical events',
     keywords: 'music, dj, edm, events'
 }
+
+
+
+
+
+/* 
+we are using useRouter b/c if we don't then the header image will display on every page
+*/
